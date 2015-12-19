@@ -1,2 +1,2 @@
 # changelog-test
-Referencing a PR in Github: #2
+Referencing a PR in Github: shaharke/changelog-test/#2
