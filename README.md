@@ -1,2 +1,2 @@
 # changelog-test
-bla
+Referencing a PR in Github: #2
